@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KarpekinaKseniya&label=Profile%20views&color=green6&style=plastic" alt="KarpekinaKseniya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KarpekinaKseniya&label=Profile%20views&color=green&style=plastic" alt="KarpekinaKseniya" /> </p>
 
 ### Hi there 👋
 
